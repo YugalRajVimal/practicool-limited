@@ -17,15 +17,15 @@ import {
 
 // Sample unsplash images for more commercial, lively UI
 const heroImg =
-  "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=900&q=80";
+  "/images/img4.png";
 const snapshotImg =
-  "https://images.unsplash.com/photo-1515165562835-cd4e203ad89b?auto=format&fit=crop&w=600&q=80";
+  "/images/img4.png";
 const offerImages = [
-  "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80", // Gift Items
-  "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=400&q=80", // Household
-  "https://images.unsplash.com/photo-1472849676747-0328e9f27ec2?auto=format&fit=crop&w=400&q=80", // Seasonal
-  "https://images.unsplash.com/photo-1444065381814-865dc9da92c0?auto=format&fit=crop&w=400&q=80", // Bulk
-  "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=400&q=80", // Pricing
+  "/images/img5.png", // Gift Items
+  "/images/img6.png", // Household
+  "/images/img7.png", // Seasonal
+  "/images/img8.png", // Bulk
+  "/images/img9.png", // Pricing
 ];
 
 const testimonialImages = [
@@ -68,11 +68,11 @@ const offers = [
 ]
 
 const whyUs = [
-  { icon: HiShieldCheck, title: 'Reliable UK Supplier', desc: 'Registered company operating from London with transparent terms.', img: "https://images.unsplash.com/photo-1485841890310-6a055c88698a?auto=format&fit=crop&w=400&q=80" },
-  { icon: HiCube, title: 'Consistent Stock', desc: 'Well-managed inventory ensures you never face supply gaps.', img: "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80" },
-  { icon: HiLightningBolt, title: 'Fast Processing', desc: 'Orders processed promptly so your business keeps moving.', img: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" },
-  { icon: HiTag, title: 'Strong Pricing', desc: 'Margins that work for your business model, every time.', img: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80" },
-  { icon: HiUsers, title: 'Customer Focused', desc: 'We build long-term relationships, not just one-off transactions.', img: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80" }
+  { icon: HiShieldCheck, title: 'Reliable UK Supplier', desc: 'Registered company operating from London with transparent terms.', img:"/images/img10.png" },
+  { icon: HiCube, title: 'Consistent Stock', desc: 'Well-managed inventory ensures you never face supply gaps.',img: "/images/img11.png" },
+  { icon: HiLightningBolt, title: 'Fast Processing', desc: 'Orders processed promptly so your business keeps moving.',img: "/images/img12.png" },
+  { icon: HiTag, title: 'Strong Pricing', desc: 'Margins that work for your business model, every time.', img:"/images/img13.png" },
+  { icon: HiUsers, title: 'Customer Focused', desc: 'We build long-term relationships, not just one-off transactions.', img:"/images/img14.png" }
 ]
 
 const testimonials = [
